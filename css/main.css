@@ -3,7 +3,7 @@ html {
 }
 
 .event {
-  border: 1px #ccc solid;
+  border: 1px #333 solid;
   border-radius: 8px;
 }
 
@@ -36,5 +36,9 @@ td {
 }
 
 th, td {
-  border: 1px solid #333;
+  border: 1px solid #ccc;
+}
+
+ul {
+  text-decoration: none;
 }
