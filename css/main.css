@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 .event {
@@ -39,6 +39,6 @@ th, td {
   border: 1px solid #ccc;
 }
 
-ul {
+.list-group {
   text-decoration: none;
 }
